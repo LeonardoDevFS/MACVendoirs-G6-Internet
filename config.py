@@ -1,0 +1,5 @@
+# config.py
+# Este arquivo armazena as configurações e constantes da aplicação.
+
+API_TOKEN = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImp0aSI6IjJhNGNlMWVhLWEyZmYtNDU1Ny04MDkzLTAxYmFlYzM3ZGQ1ZSJ9.eyJpc3MiOiJtYWN2ZW5kb3JzIiwiYXVkIjoibWFjdmVuZG9ycyIsImp0aSI6IjJhNGNlMWVhLWEyZmYtNDU1Ny04MDkzLTAxYmFlYzM3ZGQ1ZSIsImlhdCI6MTc1MjkyMzc1MiwiZXhwIjoyMDY3NDE5NzUyLCJzdWIiOiIxNjI4NiIsInR5cCI6ImFjY2VzcyJ9.X5bCeODSE2r5V4X9bdNJ7QEd9jTE81Q-99MBVP_g7Y892rZbl6kuNQCftI4TdKVBmbg3dIM4NvL_7l7V8Q6iuw"
+API_URL = "https://api.macvendors.com/v1/lookup/{}"
